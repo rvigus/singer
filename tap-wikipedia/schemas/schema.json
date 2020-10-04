@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "article_title":{
+            "type":"string"
+        },
+        "article_link":{
+            "type":"string"
+        },
+        "timestamp":{
+            "type":"string",
+            "format":"date-time"
+        }
+    }
+}
